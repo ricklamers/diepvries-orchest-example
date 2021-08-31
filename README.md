@@ -4,13 +4,10 @@
 
 Use the following environment variables to configure the pipeline
 
-`SNOWFLAKE_USER
-
+```SNOWFLAKE_USER
 SNOWFLAKE_PASSWORD
-
 SNOWFLAKE_WAREHOUSE
-
-SNOWFLAKE_ACCOUNT`
+SNOWFLAKE_ACCOUNT```
 
 ### Pipeline
 
